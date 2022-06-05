@@ -39,4 +39,4 @@ If you would like to contribute to the development of this [repository](https://
 
 #### **_notice_**
 
-Copyright (c) 2022 Milo Dubois. MIT License. Read more at [LICENSE](./LICENSE).
+Copyright (c) 2022 Milo Dubois. MIT License. Read more at [LICENSE](https://github.com/milodubois/simple-shell-hacks/blob/main/LICENSE).
